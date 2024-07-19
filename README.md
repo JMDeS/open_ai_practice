@@ -77,10 +77,10 @@ git add .
 
 #### 2. Commit your changes:
 ```sh
-git commit -m "Initial commit of weather API server"
+git commit -m "Initial commit message"
 ```
 
 #### 3. Push your changes to GitHub
 ```sh
-git commit -m "Initial commit message"
+git push origin main
 ```
